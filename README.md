@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Imam Mohammad Abuturab</h1>
-<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
+<h3 align="center">🚀 MERN Stack Developer focused on building scalable and responsive web apps</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
