@@ -1,109 +1,86 @@
+<h1 align="center">Hey there 👋, I'm Imam Mohammad Abuturab</h1>
+<h3 align="center">🚀 A Passionate MERN Stack Developer from India</h3>
 
-<h2 align="center"><samp>Hi 👋 I'm Imam Mohammad Abuturab</samp></h2>
-<h3 align="center"><samp>A software developer from India</samp> </h3>
-
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
-
-<!-- Badge -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imammohammadabuturab&label=Profile%20views&color=0e75b6&style=flat" alt="imammohammadabuturab" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
-<div style="margin-bottom: 200px;"></div>
+### 🧑‍💻 About Me
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/imammohammadabuturab/</samp>
+- 🔭 I’m currently building full-stack apps with **MongoDB | Express | React | Node**
+- 🌱 Always learning: Currently exploring **Next.js 15** and **AI integrations**
+- 👯 Looking to collaborate on **cool MERN stack projects**
+- 💬 Ask me about **JavaScript, React, MongoDB, or anything web dev**
+- 📫 Reach me at: **mdimam0703@gmail.com**
+- ⚡ Fun Fact: I break things just to fix them better 😉
 
-<samp>- 📫 Reach me at mdimam0703@gmail.com</samp>
+---
 
+### 🌐 Connect with me
 
-<!-- Qoute -->
-<div style="margin-bottom: 60px;"></div>
-<h3 ><samp>✍️Random Dev Quote</samp></h3>
-    <div>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
-    </div>
-
-
-<!-- Languages -->
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
-    </td>   
-  </tr>
- <tr>
-    </td>
-       <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
-      <br>Android Studio
-    </td>
-            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
-      <br>Linux
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
-    </td>          
- </tr>
-</table>
-</div>
-
-<br>
-
-<h3 align="center"><samp>📊 GitHub Stats</samp></h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imammohammadabuturab&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe" width="70%">
+<p>
+  <a href="mailto:mdimam0703@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/imammohammadabuturab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/imammohammadabuturab"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imammohammadabuturab&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&title_color=5fa0fe&text_color=ffffff" width="45%">
-</p>
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🧠 Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F26636?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=imammohammadabuturab&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api?username=imammohammadabuturab&show_icons=true&theme=radical" alt="Imam's GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imammohammadabuturab&layout=compact&theme=tokyonight" alt="Imam's Top Languages"/>
 </p>
 
+---
+
+### 🚀 Featured Projects
+
+1. 🌦️ **Weather App** – Displays real-time weather updates like temperature, humidity, and wind speed  
+   🔧 Built using **React.js**, **Axios**, **OpenWeatherMap API**, and **Tailwind CSS**  
+   🔗 [GitHub Repository](https://github.com/imammohammadabuturab/Weather-App)
+
+2. 🌐 **Personal Portfolio Website** – A fully responsive personal portfolio showcasing skills, projects, and contact info  
+   💻 Developed using **HTML**, **CSS**, and **JavaScript**  
+   🔗 [GitHub Repository](https://github.com/imammohammadabuturab/My-Portfolio)
+
+3. 🖥️ **Salesforce UI Clone** – A pixel-perfect static clone of the Salesforce homepage  
+   🛠️ Built with **HTML** and **CSS**  
+   🔗 [GitHub Repository](https://github.com/imammohammadabuturab/salesforce-ui-clone)
+
+
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imammohammadabuturab&label=Profile%20views&color=0e75b6&style=flat" alt="imammohammadabuturab" />
+</p>
