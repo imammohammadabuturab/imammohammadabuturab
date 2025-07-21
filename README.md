@@ -6,12 +6,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building full-stack apps with **MongoDB | Express | React | Node**
-- 🌱 Always learning: Currently exploring **Next.js 15** and **AI integrations**
-- 👯 Looking to collaborate on **cool MERN stack projects**
-- 💬 Ask me about **JavaScript, React, MongoDB, or anything web dev**
-- 📫 Reach me at: **mdimam0703@gmail.com**
-- ⚡ Fun Fact: I break things just to fix them better 😉
+- 🔭 I’m currently building full-stack applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**
+- 🌱 Continuously learning — currently diving into **Next.js 15** and **AI integrations**
+- 👯 Looking to collaborate on exciting **MERN stack** projects
+- 💬 Ask me about **JavaScript**, **React**, **MongoDB**, or anything related to **web development**
+- 📫 Reach out at: [mdimam0703@gmail.com](mailto:mdimam0703@gmail.com)
+- ⚡ Fun Fact: I love breaking things—just so I can fix them better 😉
 
 ---
 
