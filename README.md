@@ -52,9 +52,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imammohammadabuturab&show_icons=true&theme=radical" alt="Imam's GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imammohammadabuturab&layout=compact&theme=tokyonight" alt="Imam's Top Languages"/>
+  ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/)
+  ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/E&type=languages)
+  ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/&type=contributions)
+  ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/&type=top-repos)
 </p>
 
 ---
