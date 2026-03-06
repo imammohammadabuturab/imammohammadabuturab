@@ -49,17 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  ![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/)
-  ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/E&type=languages)
-  ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/&type=contributions)
-  ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=imammohammadabuturab/&type=top-repos)
-</p>
-
----
-
 ### 🚀 Featured Projects
 
 1. 🌦️ **Weather App** – Displays real-time weather updates like temperature, humidity, and wind speed  
